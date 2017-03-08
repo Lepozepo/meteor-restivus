@@ -31,7 +31,7 @@ Package.onTest(function (api) {
   // Meteor dependencies
   api.use('practicalmeteor:munit');
   api.use('test-helpers');
-  api.use('nimble:restivus');
+  api.use('lepozepo:restivus');
   api.use('http');
   api.use('coffeescript');
   api.use('underscore');
